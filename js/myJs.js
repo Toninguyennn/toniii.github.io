@@ -1,14 +1,14 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text1: "He luu em iuuuuu:3",
+  text2: "Hôm nay là một ngày siu siu đặc biệt luôn ọoo",
+  text3: "Biết ngày gì hămmmm ._.",
+  text4: "hong biết là chịu luôn á chòi :v",
+  text5: "Ngày Quốc tế Thanh Thiếu niên à???",
+  text6: "Sinh nhật aiiii á chòi 🙄🙄",
+  text7: "Viết vài dòng tự gửi cho bạn điii~",
+  text8: "Gửi cho mình :>",
+  text9: "Tủi mới học guddd, xinh đẹp hơn, tự tin hơnnnn, lun tươi cười và iu Toni quài nhe:>",
+  text10: "Sinh nhật vui vẻeee, iu em 3 chục nghìn:>",
   text11:
     "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
@@ -58,7 +58,7 @@ $(document).ready(function () {
     $("#yes").css("left", leftNo);
     $("#yes").css("top", topNO);
   }
-  // move random button póition
+  // move random button position
   function moveButton() {
     var audio = new Audio("sound/Swish1.mp3");
     audio.play();
