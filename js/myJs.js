@@ -44,11 +44,6 @@ $(document).ready(function () {
       $(".content").show(200);
     });
   }
-
-  <iframe width="420" height="315"
-src="https://youtu.be/tz6xEHJcp3A">
-</iframe>
-  
   
   // switch button position
   function switchButton() {
