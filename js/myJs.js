@@ -46,7 +46,7 @@ $(document).ready(function () {
   }
 
   <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://youtu.be/tz6xEHJcp3A">
 </iframe>
   
   
